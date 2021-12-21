@@ -4,7 +4,9 @@
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
+<!---
 - 📫 How to reach me sebastiano.cocchi@gmail.com
+-->
 
 <!---
 sebastiano123-c/sebastiano123-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
